@@ -1,0 +1,11 @@
+requests>=2.31.0
+scapy>=2.5.0
+pycryptodome>=3.18.0
+paramiko>=3.3.0
+nmap>=0.0.1
+bandit>=1.7.0
+flask>=3.0.0
+python-nmap>=0.0.1
+BeautifulSoup4>=4.12.0
+ssl
+hashlib
