@@ -1,0 +1,10 @@
+{
+  "timezones": [
+    "UTC",
+    "America/New_York",
+    "Europe/London",
+    "Asia/Tokyo"
+  ],
+  "format_24h": false,
+  "theme": "light"
+}
